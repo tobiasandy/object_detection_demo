@@ -1,0 +1,14 @@
+<annotation verified="yes">
+	<folder>train</folder>
+	<filename>imageSample284.jpg</filename>
+	<path>D:\TA\Paving\Program\Tensorflow\models\research\object_detection\images\train\imageSample284.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
